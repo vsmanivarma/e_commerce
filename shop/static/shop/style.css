@@ -1,0 +1,14 @@
+.card-title{
+    font-weight: 700;
+}
+.card-price{
+    color: gray;
+    font-weight:700;
+}
+.card-text{
+    font-weight:700;
+}
+.card-save{
+    color: green;
+    font-weight:700;
+}
